@@ -1,4 +1,4 @@
 def this_function():
-	print("Hello world! This is edited. Ftsimo")
+	print("Hello world! This is edited.")
 
 this_function()
